@@ -206,3 +206,23 @@ img{
     margin-right:5%;
     position: absolute;
 }
+
+/* this is for the Article page*/
+
+.Article {
+    width: 75%; 
+    height: 100px;
+    background: white;
+    border: solid 2.5px black;
+    float: left;
+    display: block;
+    margin-bottom: 1.5rem;
+}
+
+.bar {
+    width:20%;
+    height: 400px;
+    background: white;
+    float:right;
+    border: solid 2.5px black;
+}
